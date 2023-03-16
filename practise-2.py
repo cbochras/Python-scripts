@@ -2,7 +2,6 @@
 """
 Created on Mon Feb  1 09:34:13 2021
 
-@author: umit
 """
 
 ############### Finger exercise:                     ##################
