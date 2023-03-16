@@ -2,7 +2,6 @@
 """
 Created on Mon Feb  1 09:21:03 2021
 
-@author: umit
 """
 ################   IF
 x = float(input("Enter a number for x: "))
