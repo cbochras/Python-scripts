@@ -2,7 +2,6 @@
 """
 Created on Sun Feb  7 21:20:44 2021
 
-@author: umit
 """
 
 ##############      RECURSION AND GLOBAL VARIABLES     #######
