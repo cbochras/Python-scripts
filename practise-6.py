@@ -2,7 +2,6 @@
 """
 Created on Tue Feb  9 21:20:43 2021
 
-@author: umit
 """
 
 ###############  Files      ###################
